@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @taylrd
+- 👀 I’m interested in buried treasure, fair maidens and long glassy barrells
+- 🌱 I’m currently learning how the heck to build a full stack app with react, graphql, hasura, and postgres...
+- 💞️ I’m looking to collaborate with a front-end designer
+- 📫 You can reach me on twitter @taylrd72
